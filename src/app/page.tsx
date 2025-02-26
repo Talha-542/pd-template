@@ -17,12 +17,12 @@ export default function Home() {
           </Link>
         </div>
         <div>
-          <Link href="https://v0-premium-landing-page-design-k3nzk7.vercel.app/" target="_blank">
+          <Link href="https://kzmkbk0l4j7yfxbmaut0.lite.vusercontent.net/" target="_blank">
             <Button>View 3</Button>
           </Link>
         </div>
         <div>
-          <Link href="https://v0.dev/chat/convert-to-tailwind-EoIYmmbnc0w?b=b_NW7tAMLWUlt" target="_blank">
+          <Link href="https://cosmetic-ai-landing-page-1-app.dep.zsoft.link/" target="_blank">
             <Button>View 4</Button>
           </Link>
         </div>
